@@ -1,4 +1,4 @@
-#summary How to use masish forms.
+#summary How to use macish forms.
 #labels Phase-Deploy,Featured
 *NOTE:* This page is not finished
 = Basics =
@@ -16,6 +16,5 @@ window.onload = function () {
 {{{ 
   Macize.init({parent:`form_id`}); 
 }}}
-
 
 
