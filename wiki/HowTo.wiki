@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary How to use masish forms.
 #labels Phase-Deploy,Featured
 *NOTE:* This page is not finished
 = Basics =
@@ -16,7 +16,6 @@ window.onload = function () {
 {{{ 
   Macize.init({parent:`form_id`}); 
 }}}
-
 
 
 
